@@ -1,4 +1,0 @@
-service:
-  name: config-client
-server:
-  port: 8200
